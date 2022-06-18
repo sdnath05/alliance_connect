@@ -1,0 +1,1 @@
+Please rename .env.example to .env and update the values
